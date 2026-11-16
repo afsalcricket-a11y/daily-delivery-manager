@@ -1,16 +1,4 @@
 
----
-
-### `daily-delivery-manager`
-
-#### GitHub "About" Section Details
-* **Description:** `Daily delivery and subscription management web app for tracking recurring orders, daily drop-offs, and customer billing.`
-* **Website:** `[https://afsalcricket-a11y.github.io/daily-delivery-manager/](https://afsalcricket-a11y.github.io/daily-delivery-manager/)`
-* **Topics:** `delivery-management`, `subscription-tracker`, `logistics`, `daily-operations`, `javascript`, `web-application`, `github-pages`
-
-#### Ready-to-Paste `README.md`
-
-```markdown
 # 🚚 Daily Delivery Manager
 
 **Daily Delivery Manager** is an operational tracking tool built for recurring local delivery businesses (such as milk, tiffin, water cans, or newspaper vendors) to manage daily drop-offs, customer quantities, and monthly billing summaries.
